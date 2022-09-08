@@ -1,0 +1,37 @@
+@media only screen and (max-width: 1300px){
+.border {
+    width:  150px;
+  border-bottom: 2px solid;
+  border-radius: 5px;
+}
+}
+@media only screen and (max-width: 1140px){
+    .border {
+        width:  0px !important;
+      border-bottom: 0px solid;
+      border-radius: 5px;
+    }
+    .creativeLeftBox{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media only screen and (max-width: 900px){
+    .creativeLeftBox div{
+        display: flex;
+        flex-direction: column;
+    }
+}
+@media only screen and (max-width: 840px){
+    .creativeLeftBox div{
+        display: flex;
+        flex-direction: column;
+    }
+    .bottomBox{
+        display: flex;
+        flex-direction: column;
+    }
+    body{
+        overflow-y: auto;
+    }
+}
