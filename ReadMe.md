@@ -3,11 +3,11 @@
 ## This is Project-14
 
 Live Link 🔗
-https://saas-pr-13.netlify.app/
+https://dance-home-page-pr-14.netlify.app/
 
 ## SNAP
 
-![SNAP](./Snap/Project-13.png)
+![SNAP](./Snap/Project-14.png)
 
 This is resposive and
 It took 3 hrs to complete this Project.
